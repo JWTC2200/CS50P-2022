@@ -1,0 +1,4 @@
+id,name,hp,attk,dmg,exp,prio
+1,goblin,10,club,1,15,1
+2,hobgoblin,18,mace,2,20,1
+3,ghoul,12,bite,1,15,1

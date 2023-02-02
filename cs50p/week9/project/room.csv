@@ -1,0 +1,4 @@
+id,name,text,mons,loot,branch
+1,Entrance,1,1,1,2
+2,Cave,2,1,1,3
+3,Lair,3,2/2,1,0
